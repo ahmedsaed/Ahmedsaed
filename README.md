@@ -5,13 +5,13 @@
 [![YouTube](https://img.shields.io/badge/Ahmed%20Saed-%23FF0000.svg?style=for-the-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCtnp_3Ruw3jv1TaQ0h6fgkw/)
 ![](https://komarev.com/ghpvc/?username=ahmedsaed)
 
-I'm a **senior** student at Misr University For Science and Technology (MUST) 🏛. A passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into **Artificial Intelligence** 🤖 and **Low-Level Software Development** 🔗.
+I'm a **recent** graduate from Misr University For Science and Technology (MUST) 🏛. A passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into **Artificial Intelligence** 🤖 and **DevOps** 🔗.
 
 ### 👨‍💻 Talking about me:
 <img align="right" width="400" alt="" src="https://github.com/Ahmedsaed/Ahmedsaed/blob/main/undraw_hello_re_3evm.svg" />
 
 - 🛠 I’m currently working with Python and Pytorch for AI
-- 🔭 I’m currently working on Semantic MultiModal Search Engine (SMSE)
+- 🔭 I’m currently working on AI Agents
 - 🌱 I’m currently learning about Embedding models and semantic search
 - 💬 Ask me about anything [here](https://github.com/Ahmedsaed/Ahmedsaed/discussions/3)
 - 📫 How to reach me: mail@ahmedsaed.me
@@ -42,13 +42,13 @@ I'm a **senior** student at Misr University For Science and Technology (MUST) �
   <br />
   <summary><b>⚙️ My Workflow And Tools</b></summary>
   	<ul>
-  	  <li><b>OS:</b> Fedora Linux </li>
-	    <li><b>Laptop: </b> Lenovo Ideapad 320 (i5)</li>
-	    <li><b>PC: </b> Intel Core I7, 16GB Ram, AMD RX 470 </li>
-  	  <li><b>Browser: </b> Zen </li>
-	    <li><b>Terminal: </b> ZSH </li>
-	    <li><b>Code Editor:</b> VSCode </li>
-	  </ul>	
+  	  	<li><b>OS:</b> Fedora Linux </li>
+	    <li><b>Laptop: </b> Lenovo Ideapad Slim 3 (i7)</li>
+	    <li><b>PC: </b> AMD Ryzen 8500G, 32GB Ram, Nvida RTX 3060 (12GB) </li>
+  	  	<li><b>Browser: </b> Zen </li>
+		<li><b>Terminal: </b> ZSH </li>
+		<li><b>Code Editor:</b> VSCode </li>
+  	</ul>	
 </details>
 
 <details>	
