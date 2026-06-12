@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ahmed Saed's GitHub Stats, Rank: A++</title>
-        <desc id="descId">Total Stars Earned: 138, Total Commits  : 138, Total PRs: 256, Total Issues: 62, Contributed to: 19</desc>
+        <desc id="descId">Total Stars Earned: 138, Total Commits  : 138, Total PRs: 256, Total Issues: 62, Contributed to: 17</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -219,7 +219,7 @@
         x="175" 
         y="12.5" 
         data-testid="contribs"
-      >19</text>
+      >17</text>
     </g>
   </g>
     </svg> 
