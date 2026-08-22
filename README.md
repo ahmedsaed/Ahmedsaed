@@ -39,7 +39,6 @@ I'm a **recent** graduate from Misr University For Science and Technology (MUST)
 <br/>
 
 <details>	
-  <br />
   <summary><b>⚙️ My Workflow And Tools</b></summary>
   	<ul>
   	  	<li><b>OS:</b> Fedora Linux </li>
@@ -52,8 +51,7 @@ I'm a **recent** graduate from Misr University For Science and Technology (MUST)
 </details>
 
 <details>	
-  <br/>
-  <summary><b>🤝 Like My Work:</b></summary>
+  <summary><b>🤝 Like My Work</b></summary>
   <a href="https://www.buymeacoffee.com/ahmedsaed" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" >
   </a>
 </details>
