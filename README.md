@@ -10,9 +10,9 @@ I'm a **recent** graduate from Misr University For Science and Technology (MUST)
 ### 👨‍💻 Talking about me:
 <img align="right" width="400" alt="" src="https://github.com/Ahmedsaed/Ahmedsaed/blob/main/undraw_hello_re_3evm.svg" />
 
-- 🛠 I’m currently working with Python and Pytorch for AI
-- 🔭 I’m currently working on AI Agents
-- 🌱 I’m currently learning about Embedding models and semantic search
+- 🛠 Working with Python and Pytorch for AI
+- 🔭 Working on AI Agents
+- 🌱 Learning about Embedding Models and Semantic Search
 - 💬 Ask me about anything [here](https://github.com/Ahmedsaed/Ahmedsaed/discussions/3)
 - 📫 How to reach me: mail@ahmedsaed.me
 - ❤️ Fell in love with Fedora Linux
