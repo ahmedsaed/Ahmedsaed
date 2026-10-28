@@ -6,6 +6,7 @@ on:
       - main
   schedule:
     - cron: '0 0 * * *'  # Runs once a day at midnight
+  workflow_dispatch:
 
 jobs:
   fetch_images:
@@ -39,3 +40,15 @@ jobs:
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  extend_webos_dev_mode:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Reset LG webOS Developer Mode session
+      run: |
+        curl -fsS "https://developer.lge.com/secure/ResetDevModeSession.dev?sessionToken=${WEBOS_DEVMODE_TOKEN}" -o response.json
+        grep -q '"result":"success"' response.json || { echo "Extend failed: $(cat response.json)"; exit 1; }
+        echo "Developer Mode session extended"
+      env:
+        WEBOS_DEVMODE_TOKEN: ${{ secrets.WEBOS_DEVMODE_TOKEN }}
