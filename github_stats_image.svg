@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ahmed Saed ElBaz's GitHub Stats, Rank: S</title>
-        <desc id="descId">Total Stars Earned: 139, Total Commits  : 139, Total PRs: 914, Total Issues: 143, Contributed to: 23</desc>
+        <desc id="descId">Total Stars Earned: 139, Total Commits  : 139, Total PRs: 917, Total Issues: 143, Contributed to: 23</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -66,7 +66,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 45.51532098728201;
+        stroke-dashoffset: 45.3727762341357;
       }
     }
   
@@ -174,7 +174,7 @@
         x="175" 
         y="12.5" 
         data-testid="commits"
-      >11.1k</text>
+      >11.2k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -189,7 +189,7 @@
         x="175" 
         y="12.5" 
         data-testid="prs"
-      >914</text>
+      >917</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
